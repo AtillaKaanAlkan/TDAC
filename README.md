@@ -1,2 +1,1 @@
-# TDAC
-TDAC: the First Time-Domain Astrophysics Corpus
+# TDAC: the First Time-Domain Astrophysics Corpus
